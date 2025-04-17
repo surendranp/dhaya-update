@@ -5935,16 +5935,17 @@ $input-number-size: 80px;
 .pdfBlock-1 {
     /* position: relative; */
     border: 1px solid #e6e6e6;
-    background: #e31e25;
+    /* background: #e31e25; */
     /* padding: 18px 77px 10px 80px;
     margin-top: 25px; */
     display: flex;
      flex-direction: row; 
      flex-wrap: wrap; 
      justify-content: space-around; 
-     background-color: #18405f;
+     /* background-color: #18405f; */
       margin-bottom: 20px; 
       padding-bottom: 40px;
+      
 }
 .pdfBlock-1 i{
     font-size:40px;
@@ -6839,14 +6840,14 @@ padding: 30px 15px 40px 30px;
 .pdfBlock-1 {
     /* position: relative; */
     border: 1px solid #e6e6e6;
-    background: #e31e25;
+    /* background: #e31e25; */
     /* padding: 18px 77px 10px 80px;
     margin-top: 25px; */
     display: flex; 
     flex-direction: row; 
     flex-wrap: wrap; 
     justify-content: space-around; 
-    background-color: #18405f; 
+    /* background-color: #18405f;  */
     margin-bottom: 20px; 
     padding-bottom: 40px;
 }
