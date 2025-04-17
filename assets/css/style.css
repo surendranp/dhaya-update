@@ -1130,6 +1130,10 @@ Table of Content:
          vertical-align: middle;
          padding-bottom: 0;
     }
+    .image-opacity-on-hover {
+        background: #e31e25;
+        height: 250px;
+      }
 }
 /*hmslider1 css */
  .hmslider1 h4 {
@@ -5927,6 +5931,46 @@ $input-number-size: 80px;
 	 font-family: 'Montserrat', sans-serif;
      text-transform: uppercase;
 }
+
+.pdfBlock-1 {
+    /* position: relative; */
+    border: 1px solid #e6e6e6;
+    background: #e31e25;
+    /* padding: 18px 77px 10px 80px;
+    margin-top: 25px; */
+    display: flex;
+     flex-direction: row; 
+     flex-wrap: wrap; 
+     justify-content: space-around; 
+     background-color: #18405f;
+      margin-bottom: 20px; 
+      padding-bottom: 40px;
+}
+.pdfBlock-1 i{
+    font-size:40px;
+    color:#ffffff;
+    /* position: absolute; */
+    /* left: 21px;
+    top: 16px; */
+}
+.pdfBlock-1 .pdfSize span {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+.pdfBlock-1 .pdfSize p {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+
  .mainServicesContent {
      margin-left: 30px;
 }
@@ -6791,6 +6835,45 @@ padding: 30px 15px 40px 30px;
 }
 .free_home_enquiry.free_home .form-classes form{
 	padding-top:0;
+}
+.pdfBlock-1 {
+    /* position: relative; */
+    border: 1px solid #e6e6e6;
+    background: #e31e25;
+    /* padding: 18px 77px 10px 80px;
+    margin-top: 25px; */
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+    background-color: #18405f; 
+    margin-bottom: 20px; 
+    padding-bottom: 40px;
+}
+.pdfBlock-1 i{
+    font-size:40px;
+    color:#ffffff;
+    margin-right: 500px;
+    /* position: absolute; */
+    /* left: 21px;
+    top: 16px; */
+}
+.pdfBlock-1 .pdfSize span {
+    text-transform: uppercase;
+    color: #ffffff;
+    width: 100%;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+.pdfBlock-1 .pdfSize p {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
 }
 }
 
